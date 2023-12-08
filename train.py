@@ -1,4 +1,4 @@
-from ploss_64_atten import Unet, GaussianDiffusion, Trainer
+from diffusion_rs import Unet, GaussianDiffusion, Trainer
 
 #print('linear')
 num_classes = 1
