@@ -39,3 +39,6 @@ trainer = Trainer(
 )
 #trainer.load(28)
 trainer.train()
+
+
+print('aaaa')
