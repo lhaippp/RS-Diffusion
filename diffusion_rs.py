@@ -1575,7 +1575,7 @@ class Trainer(object):
                                     cv2.imwrite(flow_path,result_flow)
                                     #cv2.imwrite('warp_flow.jpg',flow2)
      
-                        break
+                        #break
                         # whether to calculate fid
 
                         if self.calculate_fid:
