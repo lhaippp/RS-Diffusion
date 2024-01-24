@@ -38,7 +38,7 @@ trainer = Trainer(
     results_folder = './result_64_atten',
 )
 #trainer.load(28)
-trainer.train()
-print(11)
 
-print('main')
+
+if __name__ == '__main__':
+        trainer.train()   
