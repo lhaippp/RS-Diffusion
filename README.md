@@ -19,7 +19,6 @@ accelerate launch train_RS_real.py --config config/RS_real_config.yaml
 ```
 
 ### Testing
-You can check the state of a diffusion model during training by:
 ```
 python sample_RS_real.py --config config/RS_real_config_teat.yaml
 ```
