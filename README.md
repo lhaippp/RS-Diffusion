@@ -23,7 +23,7 @@ accelerate launch train_RS_real.py --config config/RS_real_config.yaml
 ```
 
 ### Testing
-Download the Pre-trained Weights for **RS-Real** dataset from [HuggingFace](https://huggingface.co/Lhaippp/RS-Diffusion) and put it to `RS-Diffusion/checkpoint`
+Download the Pre-trained Weights for **RS-Real** dataset from [HuggingFace](https://huggingface.co/Lhaippp/RS-Diffusion) and put it to `RS-Diffusion/checkpoint` and run the following command for testing.
 
 ```
 python sample_RS_real.py --config config/RS_real_config_teat.yaml
