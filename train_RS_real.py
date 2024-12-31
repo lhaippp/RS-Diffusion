@@ -1,6 +1,6 @@
 import argparse
 import yaml
-from diffusion_model import Unet, RS_Diffusion, Trainer
+from model.diffusion_model import Unet, RS_Diffusion, Trainer
 from dataset.RS_Real_dataset import RS_Real_Train_dataset, RS_Real_test_dataset
 
 def main(config_path):
