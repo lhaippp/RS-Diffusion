@@ -2,7 +2,7 @@
 [https://arxiv.org/abs/2407.02906](https://arxiv.org/abs/2407.02906)
 ### Dataset
 
-Download the **RS-Real** dataset from [HuggingFace](https://huggingface.co/Lhaippp/RS-Diffusion)
+Download the **RS-Real** dataset from [HuggingFace](https://huggingface.co/datasets/Yzl-code/RS-Diffusion) 
 
 ### Training
 You can try training your own diffusion model using the following command:  
