@@ -28,3 +28,8 @@ Download the Pre-trained Weights for **RS-Real** dataset from [HuggingFace](http
 ```
 python sample_RS_real.py --config config/RS_real_config_teat.yaml
 ```
+
+### Cite
+```
+todo
+```
